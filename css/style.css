@@ -540,4 +540,12 @@ body {
   .box1__image img {
     max-width: 100%;
   }
+
+  .box2__bg-items img {
+    max-width: 100px;
+  }
+
+  .box3-items2 {
+    font-size: 35px;
+  }
 }
